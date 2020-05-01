@@ -103,4 +103,3 @@ avaliacao = 1;
 document.getElementById('rating').innerHTML = avaliacao;
 
 }
-
